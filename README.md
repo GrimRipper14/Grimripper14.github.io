@@ -24,23 +24,23 @@ Computing, Computer Architecture Concepts, Foundations of HCI </body>
 <header>Part- time Concession</header>
     <body>Aue staffing</body> 
     <body>May 2022 - May 2023</body>
-<body>Contracted to work for the city of Oviedo</body>
-<ul>Rotated services between 4 Oviedo concession stand locations depending on city needs
-Took customers’ orders and payments 
-Restocked inventory before opening concession and after closing 
-Verified the register had $250 before opening and upon closing counted the money for the manager to confirm amount before putting it away in safe 
-Cleaned area and machines after closing </ul>
+<ul>Contracted to work for the city of Oviedo</ul>
+<ul>Rotated services between 4 Oviedo concession stand locations depending on city needs</ul>
+<ul>Took customers’ orders and payments </ul>
+<ul>Restocked inventory before opening concession and after closing </ul>
+<ul>Verified the register had $250 before opening and upon closing counted the money for the manager to confirm amount before putting it away in safe </ul>
+<ul>Cleaned area and machines after closing </ul>
 </body>
 <br>
-<body>Part-time Deli associate
-    Publix super markets
-    May 2023 - Present
-Provide excellent customer experience	
-Maintain sanitation expectations
-Applied dynamic selling
-Maintained First in first out of products and displays
-Helped prepare special orders and party trays
-Operated various deli equipment including meat and cheese slicers and fryers
+<header>Part-time Deli associate</header>
+    <body>Publix super markets</body>
+    <body>May 2023 - Present</body>
+<ul>Provide excellent customer experience</ul>
+<ul>Maintain sanitation expectations</ul>
+<ul>Applied dynamic selling</ul>
+<ul>Maintained First in first out of products and displays</ul>
+<ul>Helped prepare special orders and party trays</ul>
+<ul>Operated various deli equipment including meat and cheese slicers and fryers</ul>
  </body>
 </section4>
 <br>
