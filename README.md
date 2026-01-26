@@ -4,9 +4,11 @@
 <body>za616658@ucf.edu </body>
 <body>https://www.linkedin.com/in/zachary-boggs-39463629a/</body>
 </section1>
+<br>
 <section2>
 <body> insert objective statement here </body>
 </section2>
+<br>
 <section3>
 <body>Relevant Coursework:
 Introduction to Programming with C, Fundamentals of Information Technology,
@@ -15,6 +17,7 @@ Database Concepts, Advanced Ethics in Science and Technology, Writing for comput
 industryComputer Network Concepts, Cryptography and Info Security, Security in
 Computing, Computer Architecture Concepts, Foundations of HCI </body>
 </section3>
+<br>
 <section4>
 <header>Work experience </header>
 <body>Part- time Concession
@@ -38,10 +41,12 @@ Helped prepare special orders and party trays
 Operated various deli equipment including meat and cheese slicers and fryers
  </body>
 </section4>
+<br>
 <section5>
  <header>Projects </header>
  <body>Insert projects here </body>
 </section5>
+<br>
 <section6>
  <header>Skills</header>
  <body>Programming languages:C(Advanced),Python(Beginner), Java(Advanced)
