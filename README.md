@@ -1,10 +1,8 @@
 # Grimripper14.github.io
 <section1>
-<p>
 <header> Zachary Boggs Resume </header>
-</p>
 <body>za616658@ucf.edu </body>
-    <br>
+<br>
 <body>https://www.linkedin.com/in/zachary-boggs-39463629a/</body>
 </section1>
 <br>
@@ -32,8 +30,9 @@ Took customers’ orders and payments
 Restocked inventory before opening concession and after closing 
 Verified the register had $250 before opening and upon closing counted the money for the manager to confirm amount before putting it away in safe 
 Cleaned area and machines after closing 
-
-Part-time Deli associate
+</body>
+<br>
+<body>Part-time Deli associate
     Publix super markets
     May 2023 - Present
 Provide excellent customer experience	
