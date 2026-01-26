@@ -1,7 +1,10 @@
 # Grimripper14.github.io
 <section1>
+<p>
 <header> Zachary Boggs Resume </header>
+</p>
 <body>za616658@ucf.edu </body>
+    <br>
 <body>https://www.linkedin.com/in/zachary-boggs-39463629a/</body>
 </section1>
 <br>
