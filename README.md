@@ -5,11 +5,15 @@
 <br>
 <body>https://www.linkedin.com/in/zachary-boggs-39463629a/</body>
 </section1>
+
 <br>
+
 <section2>
 <body> insert objective statement here </body>
 </section2>
+
 <br>
+
 <section3>
 <body>Relevant Coursework:
 Introduction to Programming with C, Fundamentals of Information Technology,
@@ -18,7 +22,9 @@ Database Concepts, Advanced Ethics in Science and Technology, Writing for comput
 industryComputer Network Concepts, Cryptography and Info Security, Security in
 Computing, Computer Architecture Concepts, Foundations of HCI </body>
 </section3>
+
 <br>
+
 <section4>
 <header>Work experience </header>
 <header>Part- time Concession</header>
@@ -30,8 +36,9 @@ Computing, Computer Architecture Concepts, Foundations of HCI </body>
 <ul>Restocked inventory before opening concession and after closing </ul>
 <ul>Verified the register had $250 before opening and upon closing counted the money for the manager to confirm amount before putting it away in safe </ul>
 <ul>Cleaned area and machines after closing </ul>
-</body>
+    
 <br>
+
 <header>Part-time Deli associate</header>
     <body>Publix super markets</body>
     <body>May 2023 - Present</body>
@@ -41,14 +48,17 @@ Computing, Computer Architecture Concepts, Foundations of HCI </body>
 <ul>Maintained First in first out of products and displays</ul>
 <ul>Helped prepare special orders and party trays</ul>
 <ul>Operated various deli equipment including meat and cheese slicers and fryers</ul>
- </body>
 </section4>
+
 <br>
+
 <section5>
  <header>Projects </header>
  <body>Insert projects here </body>
 </section5>
+
 <br>
+
 <section6>
  <header>Skills</header>
  <body>Programming languages:C(Advanced),Python(Beginner), Java(Advanced)
@@ -57,6 +67,7 @@ Database management:SQL(Advanced), Microsoft Access Queries(Advanced)
 Technical skills:Networking(Advanced), IT Support/Troubleshooting(Advanced), Robotics(Advanced)
 Languages: English(fluent), Spanish(Beginner) </body>
 </section6>
+
 <section7>
 <body> Other notable skills: Strong collaboration and communication skills, Ability to collaborate effectively in a team-oriented environment,Excellent problem-solving and analytical skills</body>
 </section7>
