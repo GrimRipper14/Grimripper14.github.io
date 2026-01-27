@@ -1,4 +1,4 @@
-<head>Zachary Boggs Resume</head>
+<section>Zachary Boggs Resume</section>
 
 <body>
 <p>za616658@ucf.edu </p>
