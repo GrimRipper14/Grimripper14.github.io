@@ -67,7 +67,7 @@ Database management:SQL(Advanced), Microsoft Access Queries(Advanced)
 Technical skills:Networking(Advanced), IT Support/Troubleshooting(Advanced), Robotics(Advanced)
 Languages: English(fluent), Spanish(Beginner) </body>
 </section6>
-
+<br>
 <section7>
 <body> Other notable skills: Strong collaboration and communication skills, Ability to collaborate effectively in a team-oriented environment,Excellent problem-solving and analytical skills</body>
 </section7>
