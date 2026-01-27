@@ -1,3 +1,4 @@
+<div>
 <header> Zachary Boggs Resume </header>
 <body>za616658@ucf.edu </body>
 <br>
@@ -44,3 +45,4 @@ Technical skills:Networking(Advanced), IT Support/Troubleshooting(Advanced), Rob
 Languages: English(fluent), Spanish(Beginner) </body>
 <br>
 <body> Other notable skills: Strong collaboration and communication skills, Ability to collaborate effectively in a team-oriented environment,Excellent problem-solving and analytical skills</body>
+</div>
