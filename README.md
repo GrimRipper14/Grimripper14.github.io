@@ -1,10 +1,9 @@
-<html>
-<body>
-<h1> Zachary Boggs Resume </h1>
+<head>
+<title> Zachary Boggs Resume </title>
 <p>za616658@ucf.edu </p>
-
 <p>https://www.linkedin.com/in/zachary-boggs-39463629a/</p>
-
+</head>
+<body>
 <p> Seeking an internship in the technological field to gain experience and insight for a future career in IT. I am reliable and a creative junior in college with the ability to learn quickly and adapt to various enviorments. </p>
 
 <p>Relevant Coursework:
@@ -51,4 +50,3 @@ Languages: English(fluent), Spanish(Beginner) </p>
 
 <p> Other notable skills: Strong collaboration and communication skills, Ability to collaborate effectively in a team-oriented environment,Excellent problem-solving and analytical skills</p>
 </body>
-</html>
