@@ -16,12 +16,12 @@ Computing, Computer Architecture Concepts, Foundations of HCI </body>
 <header>Part- time Concession</header>
 <body>Aue staffing</body> 
 <body>May 2022 - May 2023</body>
-<ul>Contracted to work for the city of Oviedo
-Rotated services between 4 Oviedo concession stand locations depending on city needs
-Took customers’ orders and payments
-Restocked inventory before opening concession and after closing
-Verified the register had $250 before opening and upon closing counted the money for the manager to confirm amount before putting it away in safe
-Cleaned area and machines after closing </ul>
+<ul>Contracted to work for the city of Oviedo</ul>
+<ul>Rotated services between 4 Oviedo concession stand locations depending on city needs</ul>
+<ul>Took customers’ orders and payments </ul>
+<ul>Restocked inventory before opening concession and after closing </ul>
+<ul>Verified the register had $250 before opening and upon closing counted the money for the manager to confirm amount before putting it away in safe </ul>
+<ul>Cleaned area and machines after closing </ul>
 <br>
 <header>Part-time Deli associate</header>
 <body>Publix super markets</body>
