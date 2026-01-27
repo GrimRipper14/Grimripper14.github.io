@@ -9,7 +9,7 @@
 <br>
 
 <section2>
-<body> Seeking an internship in the technological field to gain experience and insight for a future career in IT. I am reliable and a creative high school sophomore with the ability to learn quickly. </body>
+<body> Seeking an internship in the technological field to gain experience and insight for a future career in IT. I am reliable and a creative junior in college with the ability to learn quickly and adapt to various enviorments. </body>
 </section2>
 
 <br>
