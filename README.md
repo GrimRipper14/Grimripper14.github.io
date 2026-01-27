@@ -1,4 +1,3 @@
-<meta charset="utf-8">
 <h1>
 Zachary Boggs Resume
 </h1>
