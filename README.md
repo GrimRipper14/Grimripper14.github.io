@@ -1,6 +1,6 @@
 <html>
 <body>
-<title> Zachary Boggs Resume </title>
+<h1> Zachary Boggs Resume </h1>
 <p>za616658@ucf.edu </p>
 
 <p>https://www.linkedin.com/in/zachary-boggs-39463629a/</p>
