@@ -9,7 +9,7 @@
 <br>
 
 <section2>
-<body> insert objective statement here </body>
+<body> Seeking an internship in the technological field to gain experience and insight for a future career in IT. I am reliable and a creative high school sophomore with the ability to learn quickly. </body>
 </section2>
 
 <br>
@@ -54,7 +54,7 @@ Computing, Computer Architecture Concepts, Foundations of HCI </body>
 
 <section5>
  <header>Projects </header>
- <body>Insert projects here </body>
+ <body> I have completed several decryption projects using python C and java to help turn illegible blocks of text into clear and concise messages. aswell as these decryption projects i have also done various code solutions to problems including these languages aswell as javascript and C++ to solve both logistical and artihitic relatied issues. </body>
 </section5>
 
 <br>
