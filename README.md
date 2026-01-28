@@ -1,5 +1,3 @@
-index.html
-
 <h1>
 Zachary Boggs Resume
 </h1>
