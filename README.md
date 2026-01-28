@@ -8,7 +8,7 @@
 
   <h1>Home Page</h1>
 
-  <a href="/htmlresume/">HtmlResume</a>
+  <a href="/HtmlResume/">HtmlResume</a>
 
 </body>
 </html>
