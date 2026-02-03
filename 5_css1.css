@@ -15,7 +15,12 @@ table, th, td {
 th, td {
   border-bottom: 1px solid #ddd;
 }
+ol.g {list-style-type: decimal;}
+ol {
+  ol.g {list-style-type: decimal;}
+}
 tr:nth-child(one) {background-color: #f2f2f2;}
+
 paragraph2 {
   width: 300px;
   border: 15px solid green;
