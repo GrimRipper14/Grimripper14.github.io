@@ -1,13 +1,13 @@
 body {
-  background-color: light-blue;
+  background-color: lightblue;
 }
 
 h1 {
   color: black;
-  test-align: center;
+  text-align: center;
 }
 h2 {
-  color: solid black
+  color: black
 }
 table, th, td {
   border: 1px solid;
@@ -15,10 +15,9 @@ table, th, td {
 th, td {
   border-bottom: 1px solid #ddd;
 }
+
 ol.g {list-style-type: decimal;}
-ol {
-  ol.g {list-style-type: decimal;}
-}
+
 tr:nth-child(one) {background-color: #f2f2f2;}
 
 paragraph2 {
@@ -30,8 +29,8 @@ paragraph2 {
 blue {
   color: white;
   Width: 300px;
-  border: 15px black;
-  padding: 50px navy;
+  border: 15px solid black;
+  padding: 50px;
   margin: 20px;
 }
 _blank {
