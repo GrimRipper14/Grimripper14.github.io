@@ -27,11 +27,11 @@ ol ::marker {
 tr:(one) {background-color: lightgray;}
 
 #paragraph2 {
-  width: 800px;
+  width: 750px;
   border: 5px solid green;
   padding: 30px;
   margin: 20px;
-  line-height: 40px;
+  line-height: 30px;
   background-color: white;
 }
 .blue {
