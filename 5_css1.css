@@ -5,18 +5,20 @@ body {
 h1 {
   color: black;
   text-align: center;
-  font-size: 40px;
+  font-size: 80px;
 }
 h2 {
   color: black
 }
-table, {
+table,th, td {
   border: 1px solid;
+  border-collapse: collapse;
+}
+th {
+  background-color: gray;
+  font-weight: bold;
 }
 
-th, td {
-  border-bottom: 1px solid #ddd;
-}
 
 ol ::marker {
   content: "0" counter(list-item)". ";  
