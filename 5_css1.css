@@ -16,26 +16,25 @@ th, td {
   border-bottom: 1px solid #ddd;
 }
 
-ol.g {list-style-type: decimal;}
+ol.leading-zero {list-style-type: decimal;}
 
-tr:nth-child(one) {background-color: #f2f2f2;}
+tr:(one) {background-color: #f2f2f2;}
 
 #paragraph2 {
-  width: 300px;
-  border: 15px solid green;
-  padding: 50px;
-  margin: 20px;
+  width: 900px;
+  border: 5px solid green;
+  padding: 10px;
+  margin: 10px;
+  background-color: white;
 }
 .blue {
   color: white;
-  width: 300px;
-  border: 15px solid black;
-  padding: 50px;
-  margin: 20px;
-}
-a[target="_blank"] {
-  color: purple;
+  width: 900px;
+  border: 5px solid black;
+  padding: 10px;
+  background-color: navy;
+  margin: 10px;
 }
 a[href="http://www.w3schools.com"]{
-  color: green;
+  color: purple;
 }
