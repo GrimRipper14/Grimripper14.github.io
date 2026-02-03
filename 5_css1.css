@@ -24,14 +24,14 @@ ol ::marker {
   content: "0" counter(list-item)". ";  
 }
 
-tr:(one) {background-color: #f2f2f2;}
+tr:(one) {background-color: lightgray;}
 
 #paragraph2 {
   width: 900px;
   border: 5px solid green;
   padding: 30px;
   margin: 30px;
-  line-height: 20px;
+  line-height: 40px;
   background-color: white;
 }
 .blue {
