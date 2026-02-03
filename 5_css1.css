@@ -25,4 +25,9 @@ blue {
   padding: 50px navy;
   margin: 20px;
 }
-
+_blank {
+  color: purple;
+}
+http://www.w3schools.com {
+  color: green;
+}
