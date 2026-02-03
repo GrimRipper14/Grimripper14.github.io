@@ -1,10 +1,10 @@
 body {
   background-color: light-blue;
-  test-align: center;
 }
 
 h1 {
   color: black;
+  test-align: center;
 }
 h2 {
   color: solid black
