@@ -16,7 +16,9 @@ th, td {
   border-bottom: 1px solid #ddd;
 }
 
-ol.leading-zero {list-style-type: decimal;}
+ol ::marker {
+  content: "0" counter(list-item)". ";  
+}
 
 tr:(one) {background-color: #f2f2f2;}
 
