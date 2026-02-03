@@ -9,6 +9,20 @@ h1 {
 h2 {
   color: solid black
 }
-table, {
+table {
   border: 10px solid;
 }
+paragraph2 {
+  width: 300px;
+  border: 15px solid green;
+  padding: 50px;
+  margin: 20px;
+}
+blue {
+  color: white;
+  Width: 300px;
+  border: 15px black;
+  padding: 50px navy;
+  margin: 20px;
+}
+
