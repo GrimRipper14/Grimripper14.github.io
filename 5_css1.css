@@ -12,9 +12,6 @@ h2 {
 table, th, td {
   border: 1px solid;
 }
-th, td {
-  border-bottom: 1px solid #ddd;
-}
 
 ol ::marker {
   content: "0" counter(list-item)". ";  
