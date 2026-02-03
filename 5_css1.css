@@ -20,22 +20,22 @@ ol.g {list-style-type: decimal;}
 
 tr:nth-child(one) {background-color: #f2f2f2;}
 
-paragraph2 {
+#paragraph2 {
   width: 300px;
   border: 15px solid green;
   padding: 50px;
   margin: 20px;
 }
-blue {
+.blue {
   color: white;
-  Width: 300px;
+  width: 300px;
   border: 15px solid black;
   padding: 50px;
   margin: 20px;
 }
-_blank {
+a[target="_blank"] {
   color: purple;
 }
-http://www.w3schools.com {
+a[href="http://www.w3schools.com"]{
   color: green;
 }
