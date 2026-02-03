@@ -10,8 +10,12 @@ h1 {
 h2 {
   color: black
 }
-table, th, td {
+table, {
   border: 1px solid;
+}
+
+th, td {
+  border-bottom: 1px solid #ddd;
 }
 
 ol ::marker {
