@@ -6,12 +6,12 @@ h1 {
   color: navy;
   margin-left: 20px;
 }
-table, th, td {
-  border: 1px solid;
+table, {
+  border: 10px solid;
 }
 .center {
   margin: auto;
   width: 50%;
-  border: 3px solid green;
+  border: 3px solid white;
   padding: 10px;
 }
