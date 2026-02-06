@@ -1,10 +1,14 @@
-
+:root {
+  --jump-width: 15%;
+  --header-height: 70px;
+}
+body{
+  margin; 0;
+  font-family: Arial;
+}
 jumpmenu{
   text-align:left;
   position:static;
   background-color: red;
   border: 2px solid black;
-}
-body{
-  position: relative;
 }
