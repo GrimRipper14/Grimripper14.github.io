@@ -2,16 +2,18 @@
   --jump-width: 15%;
   --header-height: 70px;
 }
+
 *{
   box-sizing: border-box;
 }
+
 body{
   margin: 0;
   font-family: Arial;
 }
 
-#jumpmenu{
-  position:fixed;
+#jumpMenu{
+  position: fixed;
   left: 0;
   top: 0;
   width: var(--jump-width);
@@ -20,52 +22,59 @@ body{
   background-color: gold;
   padding: 20px;
 }
-#jumpmenu a {
+
+#jumpMenu a {
   color: blue;
-  text-decoration:none;
+  text-decoration: none;
 }
-#jumpmenu a:hover{
-  text-decoration:underline;
+
+#jumpMenu a:hover{
+  text-decoration: underline;
 }
+
 header{
-  poision: fixed;
-  top:0;
+  position: fixed;
+  top: 0;
   left: var(--jump-width);
   width: calc(100% - var(--jump-width));
   height: var(--header-height);
   background-color: red;
-  
+
   display: flex;
   justify-content: center;
-  alight-items: center;
+  align-items: center;
   gap: 40px;
 
-  z-index 10;
+  z-index: 10;
   border-bottom: 1px solid green;
 }
+
 main{
   margin-left: var(--jump-width);
-  padding-top: 40px;
+  padding-top: calc(var(--header-height) + 20px);
 }
+
 #container{
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(300px, 300px));
-  gap: 20px ;
+  gap: 20px;
   padding: 20px;
   justify-content: center;
 }
+
 article {
-  background-color:white;
+  background-color: white;
   padding: 15px;
   border-radius: 5px;
 }
+
 #thanks {
   position: fixed;
-  background-color:lightblue;
+  background-color: lightblue;
   color: navy;
   bottom: 20px; 
   right: 20px;
-  padding: 500px
-  border-radius:20px;
+  padding: 10px 15px;
+  border-radius: 20px;
   font-size: 15px;
 }
