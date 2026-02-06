@@ -2,10 +2,14 @@
   --jump-width: 15%;
   --header-height: 70px;
 }
+*{
+  box-sizing: border-box
+}
 body{
   margin; 0;
   font-family: Arial;
 }
+
 #jumpmenu{
   position:fixed;
   left: 0;
