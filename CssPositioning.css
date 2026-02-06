@@ -16,12 +16,12 @@ body{
   top: 0;
   width: var(--jump-width);
   height: 100vh;
-  color: red;
-  background-color: white;
+  color: black;
+  background-color: gold;
   padding: 20px;
 }
 #jumpmenu a {
-  color: white;
+  color: blue;
   text-decoration:none;
 }
 #jumpmenu a:hover{
@@ -33,7 +33,7 @@ header{
   left: var(--jump-width);
   width: calc(100% - var(--jump-width));
   height: var(--header-height);
-  background-color: blue;
+  background-color: red;
   
   display: flex;
   justify-content: center;
@@ -61,11 +61,11 @@ article {
 }
 #thanks {
   position: fixed;
-  background-color:yellow;
+  background-color:lightblue;
   color: navy;
   bottom: 20px; 
   right: 20px;
-  padding: 10px
+  padding: 500px
   border-radius:20px;
   font-size: 15px;
 }
