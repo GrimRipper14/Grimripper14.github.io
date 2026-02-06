@@ -30,8 +30,20 @@ body{
 header{
   poision: fixed;
   top:0;
+  left: var(--jump-width);
+  width: calc(100% - var(--jump-width));
+  height: var(--header-height);
+  background-color: blue;
+  
   display: flex;
   justify-content: center;
   alight-items: center;
-  
+  gap: 40px;
+
+  z-index 10;
+  border-bottom: 1px solid green;
+}
+main{
+  margin-left: var(--jump-width);
+  padding-top: 40px;
 }
