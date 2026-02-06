@@ -6,12 +6,21 @@ body{
   margin; 0;
   font-family: Arial;
 }
-jumpmenu{
+#jumpmenu{
   position:fixed;
   left: 0;
   top: 0;
   width: var(--jump-width);
+  height: 100vh;
   color: red;
   background-color: white;
   padding: 20px;
+}
+header{
+  poision: fixed;
+  top:0;
+  display: flex;
+  justify-content: center;
+  alight-items: center;
+  
 }
