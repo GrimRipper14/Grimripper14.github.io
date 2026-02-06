@@ -20,6 +20,13 @@ body{
   background-color: white;
   padding: 20px;
 }
+#jumpmenu a {
+  color: white;
+  text-decoration:none;
+}
+#jumpmenu a:hover{
+  text-decoration:underline;
+}
 header{
   poision: fixed;
   top:0;
