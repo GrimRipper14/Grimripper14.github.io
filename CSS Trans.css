@@ -1,5 +1,5 @@
 body{
-  background-color: black;
+  background-color: \green;
 }
 article p:first-of-tpye::first-letter{
   font-family: time, serif;
@@ -15,7 +15,8 @@ a[href*="google.com"]::after {
   background-repeat: no-repeat;
 }
 article{
-  color: white;
+  background-color: white;
+  color: black;
   color: 2s ease,
   transform: 2s ease;
 }
