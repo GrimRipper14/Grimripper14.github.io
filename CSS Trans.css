@@ -12,3 +12,12 @@ a[href*="google.com"]::after {
   background-size: contain;
   background-repeat: no-repeat;
 }
+article{
+  color: white;
+  color: 2s ease,
+  transform: 2s ease;
+}
+article:hover{
+  color: grey;
+  transform: scale(1.5);
+}
