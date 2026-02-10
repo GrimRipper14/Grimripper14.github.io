@@ -21,3 +21,12 @@ article:hover{
   color: grey;
   transform: scale(1.5);
 }
+nav button{
+  background-color: red;
+  padding: 10px 15px;
+  cursor: pointer;
+  transition:background-color 0.5s ease;
+}
+nav button:hover {
+  background-color: light blue;
+}
