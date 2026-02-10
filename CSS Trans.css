@@ -1,1 +1,14 @@
 
+article p:first-of-tpye::first-letter{
+  font-family: time, serif;
+  font-size: 40px;
+}
+a[href*="google.com"]::after {
+  display: inline-block;
+  width: 15px;
+  height: 15px;
+  margin-left: 5px;
+  background-image: url("urlarrow.jfif")
+  background-size: contain;
+  background-repeat: no-repeat;
+}
