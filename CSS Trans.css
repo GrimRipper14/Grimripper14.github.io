@@ -1,4 +1,6 @@
-
+body{
+  background-color: black;
+}
 article p:first-of-tpye::first-letter{
   font-family: time, serif;
   font-size: 40px;
