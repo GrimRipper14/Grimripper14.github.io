@@ -3,7 +3,7 @@ body{
 }
 article p:first-of-tpye::first-letter{
   font-family: time, serif;
-  font-size: 40px;
+  font-size: 30px;
 }
 a[href*="google.com"]::after {
   display: inline-block;
