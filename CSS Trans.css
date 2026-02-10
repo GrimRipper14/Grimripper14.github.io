@@ -33,3 +33,22 @@ nav button{
 nav button:hover {
   background-color: light blue;
 }
+#jumpMenu{
+ margin: 10px 0; 
+}
+#recentArticles:hover + #jumpmenu,
+#jumpMenu:hover{
+  display:block;
+}
+#jumpMenu l1 a {
+  display: block;
+  padding: 5px 10px;
+  color: yellow;
+  transition:
+    background-color 0.5s ease,
+    color o.3s ease;
+}
+#jumpMenu li a:hover{
+  background color: red;
+  color:black;
+}
