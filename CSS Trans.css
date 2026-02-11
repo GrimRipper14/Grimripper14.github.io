@@ -17,7 +17,7 @@ body {
   left: 0;
   top: 0;
   width: var(--jump-width);
-  height: 100vh;
+  height: 100px;
   background-color: gold;
   padding: 20px;
   display: none;
@@ -63,7 +63,7 @@ header {
 main {
   margin-left: var(--jump-width);
   padding-top: calc(var(--header-height) + 20px);
-  margin-right: 170px;
+  margin-left: 170px;
 }
 
 #container {
