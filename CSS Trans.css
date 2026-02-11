@@ -78,7 +78,7 @@ article {
   background-color: white;
   padding: 15px;
   border-radius: 5px;
-  color: black;                     
+  color: grey;                     
   max-height: 180px;
   overflow: hidden;
   transition: color 2s ease, max-height 2s ease;
