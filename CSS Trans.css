@@ -7,7 +7,7 @@ a[href*="google.com"]::after {
   width: 15px;
   height: 15px;
   margin-left: 5px;
-  background-image: url("urlarrow.jfif")
+  background-image: url("arrow.png")
   background-size: contain;
   background-repeat: no-repeat;
 }
