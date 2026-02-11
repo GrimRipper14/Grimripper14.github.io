@@ -1,60 +1,71 @@
-:root{
+:root { 
   --jump-width: 15%;
   --header-height: 70px;
 }
 
-*{
+* {
   box-sizing: border-box;
 }
 
-body{
+body {
   margin: 0;
-  font-family: Arial;
+  font-family: Arial, sans-serif;
 }
 
-#jumpMenu{
+#jumpMenu {
   position: fixed;
   left: 0;
   top: 0;
   width: var(--jump-width);
   height: 100vh;
-  color: black;
   background-color: gold;
   padding: 20px;
+  display: none;
 }
 
-#jumpMenu a {
+#jumpMenu li {
+  list-style: none;
+}
+
+#jumpMenu li a {
+  display: block;
+  padding: 6px 10px;
   color: blue;
   text-decoration: none;
+  transition: background-color 0.5s ease, color 0.5s ease;
 }
 
-#jumpMenu a:hover{
-  text-decoration: underline;
+#jumpMenu li a:hover {
+  background-color: red;
+  color: black;
 }
 
-header{
+#recentArticles:hover + #jumpMenu,
+#jumpMenu:hover {
+  display: block;
+}
+
+
+header {
   position: fixed;
   top: 0;
   left: var(--jump-width);
   width: calc(100% - var(--jump-width));
   height: var(--header-height);
   background-color: red;
-
   display: flex;
   justify-content: center;
   align-items: center;
-  gap: 40px;
-
-  z-index: 10;
   border-bottom: 1px solid green;
+  z-index: 10;
 }
 
-main{
+main {
   margin-left: var(--jump-width);
   padding-top: calc(var(--header-height) + 20px);
 }
 
-#container{
+#container {
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(300px, 300px));
   gap: 20px;
@@ -66,66 +77,52 @@ article {
   background-color: white;
   padding: 15px;
   border-radius: 5px;
+  color: #aaa;                     
+  max-height: 180px;
+  overflow: hidden;
+  transition: color 2s ease, max-height 2s ease;
+}
+
+article:hover {
+  color: gray;                    
+  max-height: 1000px;              
+}
+
+article p:first-of-type::first-letter {
+  font-family: "Times New Roman", Times, serif;
+  font-size: 36px;
+}
+
+a[href*="google.com"]::after {
+  content: "";
+  display: inline-block;
+  width: 15px;
+  height: 15px;
+  margin-left: 6px;
+  background-image: url("arrow.png");
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+
+nav button {
+  background-color: red;
+  padding: 10px 15px;
+  cursor: pointer;
+  border: none;
+  transition: background-color 0.5s ease;
+}
+
+nav button:hover {
+  background-color: lightblue;
 }
 
 #thanks {
   position: fixed;
   background-color: lightblue;
   color: navy;
-  bottom: 20px; 
+  bottom: 20px;
   right: 20px;
   padding: 10px 15px;
   border-radius: 20px;
   font-size: 15px;
-}
-article p:first-of-tpye::first-letter{
-  font-family: "Times New Roman", time, serif;
-  font-size: 30px;
-}
-a[href*="google.com"]::after {
-  display: inline-block;
-  width: 15px;
-  height: 15px;
-  margin-left: 5px;
-  background-image: url("arrow.png")
-  background-size: contain;
-  background-repeat: no-repeat;
-}
-article{
-  background-color: white;
-  color: black;
-  color: 2s ease,
-  transform: 2s ease;
-}
-article:hover{
-  color: grey;
-  transform: scale(1.5);
-}
-nav button{
-  background-color: red;
-  padding: 10px 15px;
-  cursor: pointer;
-  transition:background-color 0.5s ease;
-}
-nav button:hover {
-  background-color: light blue;
-}
-#jumpMenu{
- margin: 10px 0; 
-}
-#recentArticles:hover + #jumpmenu,
-#jumpMenu:hover{
-  display:block;
-}
-#jumpMenu l1 a {
-  display: block;
-  padding: 5px 10px;
-  color: yellow;
-  transition:
-    background-color 0.5s ease,
-    color o.3s ease;
-}
-#jumpMenu li a:hover{
-  background color: red;
-  color:black;
 }
