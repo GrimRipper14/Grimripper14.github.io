@@ -77,14 +77,14 @@ article {
   background-color: white;
   padding: 15px;
   border-radius: 5px;
-  color: #aaa;                     
+  color: black;                     
   max-height: 180px;
   overflow: hidden;
   transition: color 2s ease, max-height 2s ease;
 }
 
 article:hover {
-  color: gray;                    
+  color: black;                    
   max-height: 1000px;              
 }
 
