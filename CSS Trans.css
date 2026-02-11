@@ -79,7 +79,7 @@ article {
   font-size: 15px;
 }
 article p:first-of-tpye::first-letter{
-  font-family: time, serif;
+  font-family: "Times New Roman", time, serif;
   font-size: 30px;
 }
 a[href*="google.com"]::after {
