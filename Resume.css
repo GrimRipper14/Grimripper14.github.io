@@ -3,6 +3,8 @@ body{
   font-family: Arial;
   background-color: black;
   color: white;
+  border: 1px red;
+  border-color: red;
 }
 header {
   text-align: center;
@@ -16,4 +18,20 @@ a:hover{
   text-decoration-style: wavy;
   text-decoration-thickness: auto;
   text-decoration-color: yellow;
+}
+@media (max-width: 600px){
+  body{
+    padding: 10px;
+  }
+  header{
+    font-size: 1.5px;
+  } 
+}
+@media (min-width: 100px){
+  body{
+    margin: auto;
+  }
+  section{
+    padding: 20px;
+  }
 }
