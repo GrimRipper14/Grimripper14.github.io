@@ -22,6 +22,9 @@ a:hover{
   flex-direction: column;
   padding: 15px;
 }
+aside, main{
+  margin-bottom:20px;
+}
 
 @media (min-width: 900px){
   .container{
