@@ -3,21 +3,19 @@ body{
   font-family: Arial;
   background-color: black;
   color: white;
-  border: 1px red;
-  border-color: red;
+  border: 1px soild red;
 }
 header {
   text-align: center;
-  color: blue;
+  background-color: black;
+  color: lightblue;
   border-bottom: 1px solid white;
 }
 a{
   color: white
 }
 a:hover{
-  text-decoration-style: wavy;
-  text-decoration-thickness: auto;
-  text-decoration-color: yellow;
+  text-decoration: underline wavy yellow;
 }
 @media (max-width: 600px){
   body{
