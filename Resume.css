@@ -25,12 +25,6 @@ a:hover{
 aside, main{
   margin-bottom:20px;
 }
-a[href="image_2026-01-27_233418579.png"]{
-  color: green;
-}
-a[href="image_2026-01-27_233942331.png;"]{
-  color: green;
-}
 
 @media (min-width: 900px){
   .container{
@@ -42,6 +36,13 @@ a[href="image_2026-01-27_233942331.png;"]{
     background-color:white;
     color:black;
   }
+  a[href="image_2026-01-27_233418579.png"]{
+  color: green;
+}
+  a[href="image_2026-01-27_233942331.png;"]{
+  color: green;
+}
+
   main{
     width: 70%;
     padding:20px;
