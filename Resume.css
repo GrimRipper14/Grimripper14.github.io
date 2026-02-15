@@ -17,19 +17,24 @@ a{
 a:hover{
   text-decoration: underline wavy yellow;
 }
-@media (max-width: 600px){
-  body{
-    padding: 10px;
-  }
-  header{
-    font-size: 1.5px;
-  } 
+.container {
+  display:flex;
+  flex-direction: column;
+  padding: 15px;
 }
-@media (min-width: 100px){
-  body{
-    margin: auto;
+
+@media (min-width: 900px){
+  .container{
+    flex-direction: row;
   }
-  section{
+  aside{
+    width:30%;
     padding: 20px;
+    background-color:red;
+  }
+  main{
+    width: 70%;
+    padding:20px;
   }
 }
+  
