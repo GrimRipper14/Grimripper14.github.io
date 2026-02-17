@@ -1,7 +1,7 @@
-
+let counter = 0;
 
 function tickup(){
-  counter = 0;
+
   counter++
    document.getElementById("counter").textContent = counter;
 }
