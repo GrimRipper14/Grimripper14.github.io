@@ -27,3 +27,54 @@ function showoddnumbers(){
   }
    document.getElementById("oddNumberResult").textContent = counter;
 }
+
+function addmultiplestoarray(){
+  let multiples = [];
+
+  if (counter >= 5) {
+      for (let i = counter; i >= 5; i--) {
+          if (i % 5 === 0) {
+              multiples.push(i);
+          }
+      }
+  }
+console.log(multiples);
+}
+
+function printCarObject() {
+    let car = {
+        cType: document.getElementById("carType").value,
+        cMPG: document.getElementById("carMPG").value,
+        cColor: document.getElementById("carColor").value
+    };
+
+    console.log(car);
+}
+
+function loadCar(carNumber) {
+    let selectedCar;
+
+    if (carNumber === 1) {
+        selectedCar = carObject1;
+    } else if (carNumber === 2) {
+        selectedCar = carObject2;
+    } else if (carNumber === 3) {
+        selectedCar = carObject3;
+    }
+
+    document.getElementById("carType").value = selectedCar.cType;
+    document.getElementById("carMPG").value = selectedCar.cMPG;
+    document.getElementById("carColor").value = selectedCar.cColor;
+}
+
+function changeColor(colorNumber) {
+    let paragraph = document.getElementById("styleParagraph");
+
+    if (colorNumber === 1) {
+        paragraph.style.color = "red";
+    } else if (colorNumber === 2) {
+        paragraph.style.color = "green";
+    } else if (colorNumber === 3) {
+        paragraph.style.color = "blue";
+    }
+}
